@@ -1,4 +1,4 @@
-# cats-corner
+# CatsCorner
 
 Welcome to CatsCorner!
 
