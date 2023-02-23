@@ -8,9 +8,9 @@ With CatsCorner, I hope to inspire and encourage others to explore the world of 
 
 A number of excellent books and resources that have helped me to develop my understanding of functional programming and Cats. These resources include:
 
-Functional Programming in Scala by Paul Chiusano and Rúnar Bjarnason
-Scala with Cats by Noel Welsh and Dave Gurnell
-Cats documentation and examples on Github
+- Functional Programming in Scala by Paul Chiusano and Rúnar Bjarnason
+- Scala with Cats by Noel Welsh and Dave Gurnell
+- Cats documentation and examples on Github
 
 I highly recommend these resources to anyone who is interested in learning more about functional programming and Cats, as they provide excellent insights and practical advice for developers of all levels.
 
