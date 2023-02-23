@@ -15,3 +15,5 @@ A number of excellent books and resources that have helped me to develop my unde
 I highly recommend these resources to anyone who is interested in learning more about functional programming and Cats, as they provide excellent insights and practical advice for developers of all levels.
 
 I look forward to sharing my progress with you as I continue to explore the fascinating world of functional programming with Cats!
+
+Cheers!
