@@ -17,3 +17,14 @@ I highly recommend these resources to anyone who is interested in learning more 
 I look forward to sharing my progress with you as I continue to explore the fascinating world of functional programming with Cats!
 
 Cheers!
+
+## Running the example
+
+Make sure you have [SBT](https://www.scala-sbt.org/) installed. Then run:
+
+```bash
+sbt run
+```
+
+This will compile the project and execute the simple program in
+`HelloCats.scala`.
